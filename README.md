@@ -1,5 +1,3 @@
-# Vue starter
-
 ## Instalace
 
 - `npm install`
