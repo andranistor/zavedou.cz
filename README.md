@@ -1,2 +1,9 @@
-# zavedou.cz
-Projekt DA web - zavedou.cz
+# Vue starter
+
+## Instalace
+
+- `npm install`
+
+## Vývoj
+
+- `npm start`
